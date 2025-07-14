@@ -1,0 +1,8 @@
+## Planned Commands
+
+1. hello / hi → greet user
+2. what is the time → show current time
+3. open google → open browser
+4. tell me a joke → print a random joke
+5. python tip → print a coding tip
+6. exit / quit → end the program
